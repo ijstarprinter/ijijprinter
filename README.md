@@ -1,2 +1,2 @@
 # ijijprinter
-ij.start.canon | https://ij.start.canon | Install and setup canon printer
+ij.start.canon |https://ij.startcani.com/setup/web_manual/| Install and setup canon printer
